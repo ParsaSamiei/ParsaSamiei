@@ -72,18 +72,8 @@ I'm a Computer Engineering student at IUST, a member of the IUST Robotics Team (
 - **[Pishnam](https://pishnam.com)** — Bilingual marketing site and admin panel for Pishnam Robotics Researchers, self-hosted on Docker/Nginx.
 - **[Bidlancer](https://github.com/NiflheimDevs/Bidlancer-FrontEnd)** — Frontend for a freelance bidding platform.
 
-<br>
 
-### 📊 GitHub Stats
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ParsaSamiei&show_icons=true&theme=default&hide_border=true&hide_title=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParsaSamiei&layout=compact&theme=default&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ParsaSamiei&theme=default&hide_border=true" />
-</div>
 
 <br>
 
